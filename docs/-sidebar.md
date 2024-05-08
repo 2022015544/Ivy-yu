@@ -1,6 +1,6 @@
    * [Home](/)
    * [Introduction](/introduction)
    * [Team Introduction](/team-introduction)
-   * [Team Name](/team-name)
+   * [Team Name](/bangbang team)
    * [Normal Homework](/normal-homework)
    * [Final Homework](/final-homework)
