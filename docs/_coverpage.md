@@ -1,7 +1,6 @@
 <!-- _coverpage.md -->
 
-![](https://cdn.jsdelivr.net/gh/2022015544/Ivy-yu@main/C:%5CUsers%5CIvy%5CDocuments%5CGitHub%5CIvy-yu%5Cimage%E5%9B%A2%E9%98%9Flogo-02.svg)
-<img src="https://cdn.jsdelivr.net/gh/2022015544/Ivy-yu@main/C:%5CUsers%5CIvy%5CDocuments%5CGitHub%5CIvy-yu%5Cimage%E5%9B%A2%E9%98%9Flogo-02.svg" alt="Your Image" width="200" />
+<img src="https://cdn.jsdelivr.net/gh/2022015544/Ivy-yu@main/C:%5CUsers%5CIvy%5CDocuments%5CGitHub%5CIvy-yu%5Cimage%E5%9B%A2%E9%98%9Flogo-02.svg" alt="Your Image" width="300" />
 
 # BUNBUN 
 
