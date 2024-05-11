@@ -13,4 +13,4 @@ She is mainly responsible for the text writing and communication in the team.
 ## CONTACT INFORMATION
 
 - Email: 641293915@qq.com
-- [GitHub](https://github.com/2022015544/Ivy-yu.git/)
+- [GitHub](https://github.com/2022015544/Ivy-yu)
