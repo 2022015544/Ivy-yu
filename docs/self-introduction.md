@@ -10,6 +10,7 @@
 Ivy is a kind and reliable girl. She loves Writing and Photography.
 She is mainly responsible for the text writing and communication in the team.
 
- ## CONTACT INFORMATION
+## CONTACT INFORMATION
 
 - Email: 641293915@qq.com
+- [GitHub](https://github.com/2022015544/Ivy-yu/)
