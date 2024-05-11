@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<img src="![](https://cdn.jsdelivr.net/gh/2022015544/Ivy-yu@main/C:%5CUsers%5CIvy%5CDocuments%5CGitHub%5CIvy-yu%5Cimage%E5%9B%A2%E9%98%9Flogo-02.png)" alt="LOGO" width="400" />
+<img src="https://cdn.jsdelivr.net/gh/2022015544/Ivy-yu@main/C:%5CUsers%5CIvy%5CDocuments%5CGitHub%5CIvy-yu%5Cimagelogo-02.png" alt="LOGO" width="400" />
 
 # <span style="color: white;">BUNBUN</span>
 
