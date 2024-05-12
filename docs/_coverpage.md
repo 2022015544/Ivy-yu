@@ -8,7 +8,7 @@
 
 - <span style="color: white;">Keep working!</span>
 
-[Get Started](#quick-start)
+[Get Started](#hello)
 
 <!-- 在Markdown文件中设置背景 -->
 
