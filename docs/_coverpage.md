@@ -8,7 +8,7 @@
 
 - <span style="color: white;">Keep working!</span>
 
-[Get Started](#Ivy - home)
+[Get Started](#quick-start)
 
 <!-- 在Markdown文件中设置背景 -->
 
