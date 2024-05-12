@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<img src="https://github.com/2022015544/Ivy-yu/raw/image/image/imagelogo-02.png" alt="LOGO" width="400" />
+<img src="https://raw.githubusercontent.com/2022015544/Ivy-yu/main/image/image/imagelogo-02.png" alt="LOGO" width="400" />
 
 # <span style="color: white;">BUNBUN</span>
 
