@@ -1,1 +1,0 @@
-Learn open source hardware
