@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="Hello! This is Ivy! Here is the website of myself! Nice to meet you! " content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <!-- Prism CSS -->
-  <link href="docs./assets/prism.css" rel="stylesheet" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+   <!-- Prism CSS -->
+   <link rel="stylesheet" href="//unpkg.com/prismjs/themes/prism.css">
 </head>
 <body>
   <div id="app"></div>
@@ -22,27 +22,18 @@
       loadSidebar: true,
       loadNavbar: true,
       markdown: {
-                renderer: {
-                    code: function(code, lang) {
-                        // Make sure Prism is loaded globally
-                        if (window.Prism && Prism.languages[lang]) {
-                            return '<pre class="language-' + lang + '"><code>' + 
-                                Prism.highlight(code, Prism.languages[lang], lang) +
-                                '</code></pre>';
-                        }
-                        // Fallback for unspecified languages
-                        return '<pre class="language"><code>' + code + '</code></pre>';
-                    }
-                }
-            }
+        // 启用 Prism.js
+        prism: true,
+      }
     }
   </script>
-  <!-- Prism JS 库 -->
-  <script src="https://unpkg.com/prismjs/prism.js"></script>
+
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+   <!-- 引用 Prism JavaScript -->
+   <script src="//unpkg.com/prismjs/prism.js"></script>
+   <!-- 加载 Prism.js 的 C/C++ 支持 -->
+  <script src="//unpkg.com/prismjs/components/prism-c.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-cpp.min.js"></script>
 </body>
 </html>
-window.addEventListener('load', function() {
-  Prism.highlightAll();
-});
