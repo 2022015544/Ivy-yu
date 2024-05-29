@@ -5,5 +5,5 @@
 - Daily Homework
   - [Lesson1: Web Setup](DailyHomework/lesson1-web-site-setup.md)
   - [Lesson2: Arduino-Output](DailyHomework/lesson2-arduino-output.md)
-  - [Lesson3: Arduino-Intput](DailyHomework/lesson3-arduino-intput.md)
+  - [Lesson3: CAD](DailyHomework/lesson3-arduino-intput.md)
   - [Lesson4: 3D Printer](DailyHomework/lesson4-3d-printer.md)

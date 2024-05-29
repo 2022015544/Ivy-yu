@@ -105,7 +105,8 @@ Connect the 2812 LED ring to the digital pins of the Arduino
 Arduino IDE code example (12 LEDs):
 
 Arduino IDE code example (12 LEDs):
-```c
+
+```C
 //C++ code
 //定义LED灯在R,G,B三个通道上的数值
 int R[]={255,255,255,99,41,41,197,239,0,125,255,0};
