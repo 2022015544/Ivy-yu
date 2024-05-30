@@ -72,3 +72,4 @@ void loop() {
 
 按windows加alt加R键进行屏幕录制
 
+![CAD](https://github.com/2022015544/Ivy-yu/raw/1854184369b6038927911ab198ab75e66fd9e349/image/imageArduino%20%E6%B5%81%E6%B0%B4%E7%81%AF%E7%94%B5%E8%84%91%E7%AB%AF%E6%8E%A5%E7%BA%BF%E5%9B%BE.png)
