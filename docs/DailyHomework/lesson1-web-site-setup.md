@@ -69,3 +69,7 @@ void loop() {
   while (1);
 }
 ```
+
+按windows加alt加R键进行屏幕录制
+
+![Arduino-IDE](https://github.com/2022015544/Ivy-yu/raw/84b3526ad6343559bd070ab208ef6b49724b94bc/C%3A%5CUsers%5CIvy%5CDocuments%5CGitHub%5CIvy-yu%5Cimage%5CArduinocom.png)
